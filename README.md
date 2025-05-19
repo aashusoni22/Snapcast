@@ -60,7 +60,7 @@ NEXT_PUBLIC_APP_URL=
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/snapcast.git
+git clone https://github.com/aashusoni22/snapcast.git
 cd snapcast
 ```
 
