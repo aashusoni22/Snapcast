@@ -120,5 +120,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Next.js](https://nextjs.org/)
 - [Drizzle ORM](https://orm.drizzle.team/)
 - [Bunny.net](https://bunny.net/)
+- [Arcjet](https://arcjet.com/)
 - [Better Auth](https://better-auth.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
