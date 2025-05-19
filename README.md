@@ -20,7 +20,7 @@ SnapCast is a modern video sharing platform built with Next.js, TypeScript, and 
 
 - **Frontend**: Next.js 14, React, TypeScript
 - **Styling**: Tailwind CSS
-- **Database**: PostgreSQL with Drizzle ORM
+- **Database**: PostgreSQL with Drizzle ORM, Xata
 - **Authentication**: Better Auth
 - **Video Storage**: Bunny.net
 - **Video Recording**: MediaRecorder API
@@ -123,3 +123,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Arcjet](https://arcjet.com/)
 - [Better Auth](https://better-auth.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Xata](https://xata.io/)
