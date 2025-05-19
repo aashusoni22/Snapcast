@@ -18,13 +18,14 @@ SnapCast is a modern video sharing platform built with Next.js, TypeScript, and 
 
 ## Tech Stack
 
-- **Frontend**: Next.js 14, React, TypeScript
-- **Styling**: Tailwind CSS
-- **Database**: PostgreSQL with Drizzle ORM
-- **Authentication**: Better Auth
-- **Video Storage**: Bunny.net
-- **Video Recording**: MediaRecorder API
-- **State Management**: React Hooks
+- **Frontend**: <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+- **Styling**: <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+- **Database**: <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white" />
+- **Authentication**: <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=better-auth&logoColor=white" />
+- **Video Storage**: <img src="https://img.shields.io/badge/Bunny.net-000000?style=for-the-badge&logo=bunny&logoColor=white" />
+- **Video Recording**: <img src="https://img.shields.io/badge/MediaRecorder-000000?style=for-the-badge&logo=media-recorder&logoColor=white" />
+- **State Management**: <img src="https://img.shields.io/badge/React_Hooks-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+- **Security**: <img src="https://img.shields.io/badge/Arcjet-000000?style=for-the-badge&logo=arcjet&logoColor=white" />
 
 ## Prerequisites
 
