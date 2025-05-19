@@ -2,6 +2,8 @@
 
 SnapCast is a modern video sharing platform built with Next.js, TypeScript, and Drizzle ORM. It allows users to upload, record, and share videos with customizable privacy settings.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-SnapCast-blue)](https://snapcast-eight.vercel.app/)
+
 ## Features
 
 - 🎥 Video upload and recording
